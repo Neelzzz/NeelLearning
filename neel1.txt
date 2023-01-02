@@ -1,1 +1,2 @@
-hi there i am learning git
+hi there i am learning Git 
+adding a new line 
